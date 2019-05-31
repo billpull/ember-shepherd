@@ -98,7 +98,7 @@
     "eslint-plugin-node": "^9.0.1",
     "loader.js": "^4.7.0",
     "qunit-dom": "^0.8.4",
-    "sass": "^1.20.1",
+    "sass": "^1.20.3",
     "stylelint": "^9.10.1",
     "stylelint-config-ship-shape": "^0.5.2"
   },
